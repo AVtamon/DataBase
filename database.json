@@ -1,4 +1,32 @@
 [
-  {"id": 1, "title": "Фильм №1", "url": "http://example.com/movie1.mp4"},
-  {"id": 2, "title": "Фильм №2", "url": "http://example.com/movie2.mp4"}
+  {
+    "title": "Матрица",
+    "description": "Киберпанк-экшн о хакере Нео.",
+    "image": "https://example.com/images/matrix.jpg",
+    "downloadUrl": "https://example.com/downloads/matrix.mp4"
+  },
+  {
+    "title": "Начало",
+    "description": "Научная фантастика о погружении в чужие сны.",
+    "image": "https://example.com/images/inception.jpg",
+    "downloadUrl": "https://example.com/downloads/inception.mp4"
+  },
+  {
+    "title": "Интерстеллар",
+    "description": "Космическая одиссея о спасении человечества.",
+    "image": "https://example.com/images/interstellar.jpg",
+    "downloadUrl": "https://example.com/downloads/interstellar.mp4"
+  },
+  {
+    "title": "Джанго освобожденный",
+    "description": "Западный экшн с элементами комедии.",
+    "image": "https://example.com/images/django.jpg",
+    "downloadUrl": "https://example.com/downloads/django.mp4"
+  },
+  {
+    "title": "Человек-Паук: Через вселенные",
+    "description": "Анимационный фильм о приключениях Человека-Паука.",
+    "image": "https://example.com/images/spiderman.jpg",
+    "downloadUrl": "https://example.com/downloads/spiderman.mp4"
+  }
 ]
