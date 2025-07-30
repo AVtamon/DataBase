@@ -13,7 +13,6 @@
       "description": "Путешествие в космос.",
       "image": "https://example.com/interstellar.jpg",
       "downloadUrl": "https://example.com/download/interstellar.mp4"
-    },
-    // остальные фильмы...
+    }
   ]
 }
