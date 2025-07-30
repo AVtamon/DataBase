@@ -1,0 +1,4 @@
+[
+  {"id": 1, "title": "Фильм №1", "url": "http://example.com/movie1.mp4"},
+  {"id": 2, "title": "Фильм №2", "url": "http://example.com/movie2.mp4"}
+]
