@@ -1,4 +1,19 @@
-[
-  {"id": 1, "title": "Фильм №1", "url": "http://example.com/movie1.mp4"},
-  {"id": 2, "title": "Фильм №2", "url": "http://example.com/movie2.mp4"}
-]
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Матрица",
+      "description": "Классика киберпанка.",
+      "image": "https://example.com/matrix.jpg",
+      "downloadUrl": "https://example.com/download/matrix.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Интерстеллар",
+      "description": "Путешествие в космос.",
+      "image": "https://example.com/interstellar.jpg",
+      "downloadUrl": "https://example.com/download/interstellar.mp4"
+    },
+    // остальные фильмы...
+  ]
+}
